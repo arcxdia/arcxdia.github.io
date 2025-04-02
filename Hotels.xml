@@ -9,7 +9,7 @@
         <Phone>800-937-8461</Phone>
         <Address NearestAirport="Sky Harbor">
             <Number>11</Number>
-            <Street>E. 7th Street</Street>
+            <Street>E 7th Street</Street>
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
@@ -31,7 +31,7 @@
         <Phone>310-410-4000</Phone>
         <Address NearestAirport="Los Angeles International Airport">
             <Number>5711</Number>
-            <Street>W. Century Blvd</Street>
+            <Street>W Century Blvd</Street>
             <City>Los Angeles</City>
             <State>CA</State>
             <Zip>90045</Zip>
@@ -42,7 +42,7 @@
         <Phone>877-880-0880</Phone>
         <Address>
             <Number>3799</Number>
-            <Street>S. Las Vegas Blvd</Street>
+            <Street>S Las Vegas Blvd</Street>
             <City>Las Vegas</City>
             <State>NV</State>
             <Zip>89109</Zip>
@@ -54,7 +54,7 @@
         <Phone>123-456-7890</Phone>
         <Address NearestAirport="Harry Reid International Airport">
             <Number>3570</Number>
-            <Street>S. Las Vegas Blvd</Street>
+            <Street>S Las Vegas Blvd</Street>
             <City>Las Vegas</City>
             <State>NV</State>
             <Zip>89109</Zip>
@@ -65,7 +65,7 @@
         <Phone>424-255-4745</Phone>
         <Address NearestAirport="Los Angeles International Airport">
             <Number>5250</Number>
-            <Street>W. El Segundo Blvd</Street>
+            <Street>W El Segundo Blvd</Street>
             <City>Hawthorne</City>
             <State>CA</State>
             <Zip>90250</Zip>
@@ -76,7 +76,7 @@
         <Phone>212-355-0300</Phone>
         <Address NearestAirport="LaGuardia Airport">
             <Number>230</Number>
-            <Street>E. 51st St</Street>
+            <Street>E 51st St</Street>
             <City>New York</City>
             <State>NY</State>
             <Zip>10022</Zip>
@@ -110,7 +110,7 @@
         <Phone>212-744-1600</Phone>
         <Address>
             <Number>35</Number>
-            <Street>E. 76th St</Street>
+            <Street>E 76th St</Street>
             <City>New York</City>
             <State>NY</State>
             <Zip>10021</Zip>
