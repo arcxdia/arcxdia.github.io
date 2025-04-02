@@ -38,9 +38,9 @@
         </Address>
     </Hotel>
     <Hotel Rating="4.3">
-        <Name>MGGM Grand</Name>
+        <Name>MGM Grand</Name>
         <Phone>877-880-0880</Phone>
-        <Address NearestAirport="Harry Reid International Airport">
+        <Address>
             <Number>3799</Number>
             <Street>S. Las Vegas Blvd</Street>
             <City>Las Vegas</City>
@@ -51,6 +51,7 @@
     <Hotel Rating="4.5">
         <Name>Caesars Palace</Name>
         <Phone>866-227-5938</Phone>
+        <Phone>123-456-7890</Phone>
         <Address NearestAirport="Harry Reid International Airport">
             <Number>3570</Number>
             <Street>S. Las Vegas Blvd</Street>
@@ -84,7 +85,7 @@
     <Hotel Rating="3.8">
         <Name>Hampton Inn and Suites</Name>
         <Phone>908-282-0020</Phone>
-        <Address NearestAirport="Neward Liberty International Airport">
+        <Address>
             <Number>100</Number>
             <Street>International Blvd</Street>
             <City>Elizabeth</City>
@@ -95,6 +96,7 @@
     <Hotel Rating="4.4">
         <Name>Homewood Suites</Name>
         <Phone>845-567-2700</Phone>
+        <Phone>234-567-8901</Phone>
         <Address NearestAirport="New York Stewart International Airport">
             <Number>180</Number>
             <Street>Breunig Rd</Street>
@@ -106,7 +108,7 @@
     <Hotel Rating="4.5">
         <Name>The Carlyle</Name>
         <Phone>212-744-1600</Phone>
-        <Address NearestAirport="LaGuardia Airport">
+        <Address>
             <Number>35</Number>
             <Street>E. 76th St</Street>
             <City>New York</City>
