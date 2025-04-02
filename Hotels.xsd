@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns="https://arcxdia.github.io/"
+   targetNamespace="https://arcxdia.github.io/" 
+   elementFormDefault="qualified" attributeFormDefault="unqualified">
+    
+    <xsd:annotation>
+        <xsd:documentation xml:lang="en">
+            CSE445 Assignment 4
+        </xsd:documentation>
+    </xsd:annotation>
+
+    <xs:element name="Hotels">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Hotel" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+                            <xs:element name="Phone" type="PhoneType" minOccurs="1" maxOccurs="unbounded"/>
+                            <xs:element name="Address">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Number" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+                                        <xs:element name="Street" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+                                        <xs:element name="City" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+                                        <xs:element name="State" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+                                        <xs:element name="Zip" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+                                    </xs:sequence>
+                                    <xs:attribute name="NearestAirport" type="xsd:string" use="optional"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="Rating" type="xsd:int" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:simpleType name="PhoneType">
+        <xs:restriction base="xsd:string">
+            <xs:pattern value="\d{3}\-\d{3}\-\d{4}"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>
