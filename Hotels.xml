@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels
+    xmlns ="https://arcxdia.github.io/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://arcxdia.github.io/Hotels.xsd">
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>11</Number>
+            <Street>E. 7th Street</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.1">
+        <Name>Sonesta Select Downtown Tempe</Name>
+        <Phone>480-966-2800</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>601</Number>
+            <Street>S Ash Ave</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.9">
+        <Name>Hilton Los Angeles Airport</Name>
+        <Phone>310-410-4000</Phone>
+        <Address NearestAirport="Los Angeles International Airport">
+            <Number>5711</Number>
+            <Street>W. Century Blvd</Street>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Zip>90045</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.3">
+        <Name>MGGM Grand</Name>
+        <Phone>877-880-0880</Phone>
+        <Address NearestAirport="Harry Reid International Airport">
+            <Number>3799</Number>
+            <Street>S. Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.5">
+        <Name>Caesars Palace</Name>
+        <Phone>866-227-5938</Phone>
+        <Address NearestAirport="Harry Reid International Airport">
+            <Number>3570</Number>
+            <Street>S. Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="2.6">
+        <Name>Ramada</Name>
+        <Phone>424-255-4745</Phone>
+        <Address NearestAirport="Los Angeles International Airport">
+            <Number>5250</Number>
+            <Street>W. El Segundo Blvd</Street>
+            <City>Hawthorne</City>
+            <State>CA</State>
+            <Zip>90250</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.0">
+        <Name>Pod 51</Name>
+        <Phone>212-355-0300</Phone>
+        <Address NearestAirport="LaGuardia Airport">
+            <Number>230</Number>
+            <Street>E. 51st St</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10022</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.8">
+        <Name>Hampton Inn and Suites</Name>
+        <Phone>908-282-0020</Phone>
+        <Address NearestAirport="Neward Liberty International Airport">
+            <Number>100</Number>
+            <Street>International Blvd</Street>
+            <City>Elizabeth</City>
+            <State>NJ</State>
+            <Zip>07201</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.4">
+        <Name>Homewood Suites</Name>
+        <Phone>845-567-2700</Phone>
+        <Address NearestAirport="New York Stewart International Airport">
+            <Number>180</Number>
+            <Street>Breunig Rd</Street>
+            <City>New Windsor</City>
+            <State>NY</State>
+            <Zip>12553</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.5">
+        <Name>The Carlyle</Name>
+        <Phone>212-744-1600</Phone>
+        <Address NearestAirport="LaGuardia Airport">
+            <Number>35</Number>
+            <Street>E. 76th St</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10021</Zip>
+        </Address>
+    </Hotel>
+</Hotels>  
