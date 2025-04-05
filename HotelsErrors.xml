@@ -7,7 +7,7 @@
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address NearstAirport="Sky Habor">
             <Number>11</Number>
             <Street>E 7th Street</Street>
             <City>Tempe</City>
@@ -17,7 +17,7 @@
     </Hotel>
     <Hotel Rating="4.1">
         <Name>Sonesta Select Downtown Tempe</Name>
-        <Address NearstAirport="Sky Harbor">
+        <Address NearstAirport="Sky Habor">
             <Number>601</Number>
             <Street>S Ash Ave</Street>
             <City>Tempe</City>
