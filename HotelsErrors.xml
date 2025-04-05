@@ -3,7 +3,7 @@
     xmlns ="https://arcxdia.github.io/"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://arcxdia.github.io/Hotels.xsd">
-    <Hotel Rating=4.2>
+    <Hotel Rating="4.2">
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
@@ -15,7 +15,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating=4.1>
+    <Hotel Rating="4.1">
         <Name>Sonesta Select Downtown Tempe</Name>
         <Address NearstAirport="Sky Harbor">
             <Number>601</Number>
@@ -25,7 +25,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating=3.9>
+    <Hotel Rating="3.9">
         <Name>Hilton Los Angeles Airport</Name>
         <Name>Hilton</Name>
         <Phone>310-410-4000</Phone>
@@ -37,7 +37,7 @@
             <Zip>90045</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating=4.3>
+    <Hotel Rating="4.3">
         <Name>MGM Grand</Name>
         <Phone>877-880-0880</Phone>
         <Address>
@@ -47,7 +47,7 @@
             <State>NV</State>
             <Zip>89109</Zip>
     </Hotel>
-    <Hotel Rating=4.5>
+    <Hotel Rating="4.5">
         <Name>Caesars Palace</Name>
         <Phone>866-227-5938</Phone>
         <Phone>123-456-7890</Phone>
@@ -70,7 +70,7 @@
             <Zip>90250</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating=4.0>
+    <Hotel Rating="4.0">
         <Name>Pod 51</Name>
         <Phone>212-355-0300</Phone>
         <Address NearstAirport="LaGuardia Airport">
@@ -81,7 +81,7 @@
             <Zip>10022</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating=3.8>
+    <Hotel Rating="3.8">
         <Name>Hampton Inn and Suites</Name>
         <Phone>908-282-0020</Phone>
         <Address>
@@ -92,7 +92,7 @@
             <Zip>07201</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating=4.4>
+    <Hotel Rating="4.4">
         <Name>Homewood Suites</Name>
         <Phone>845-567-2700</Phone>
         <Phone>234-567-8901</Phone>
@@ -104,7 +104,7 @@
             <Zip>12553</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating=4.5>
+    <Hotel Rating="4.5">
         <Name>The Carlyle</Name>
         <Phone>212-744-1600</Phone>
         <Address>
